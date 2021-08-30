@@ -1,0 +1,47 @@
+.sliderArrow {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	padding: 1.8rem 2.2rem;
+	border: 1px solid #ffffff;
+	transition: all 0.1s ease-in-out;
+}
+.sliderArrow:hover {
+	background-color: #ffffff;
+}
+.sliderArrow:hover svg {
+	color: #000000;
+}
+
+/* REACT SLICK */
+/* .ReactSlickCourse > .slick-slider > div {
+	padding: 0 10px !important;
+}
+
+.ReactSlickCourse > .slick-list {
+	padding: 0 -10px !important;
+} */
+
+.CourseSliderArrow {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	padding: 1.8rem 2.2rem;
+	border: 1px solid #553c8b;
+	transition: all 0.1s ease-in-out;
+}
+.CourseSliderArrow svg {
+	color: #553c8b;
+}
+.CourseSliderArrow:hover {
+	background-color: #553c8b;
+}
+.CourseSliderArrow:hover svg {
+	color: #ffffff;
+}

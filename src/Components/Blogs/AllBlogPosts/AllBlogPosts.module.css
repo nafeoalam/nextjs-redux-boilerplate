@@ -1,0 +1,17 @@
+.allblog_container {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.allblog_content {
+  padding: 50px 0;
+}
+
+.allblog_card_wrapper {
+    min-height: 0;
+    min-width: 0;
+}
+.pagination {
+    padding: 30px 0;
+}
+

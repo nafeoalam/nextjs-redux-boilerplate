@@ -1,0 +1,18 @@
+.InputSec {
+	display: flex;
+	align-items: center;
+	max-width: 43.6rem;
+	width: 100%;
+	background: #fff;
+	border-radius: 5.7rem;
+	border: 1px solid #e0e0e0;
+}
+
+.InputSec__Icon {
+	font-size: 1.8rem !important;
+}
+.InputSec__Input {
+	outline: none;
+	border: none;
+	font-size: 1.8rem;
+}

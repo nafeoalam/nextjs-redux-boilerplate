@@ -1,0 +1,12 @@
+.singleReview {
+  padding: 3rem;
+}
+
+.topSectionReview {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.reviewInfo {
+  margin-left: 1rem;
+}

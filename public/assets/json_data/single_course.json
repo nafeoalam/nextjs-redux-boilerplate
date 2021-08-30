@@ -1,0 +1,142 @@
+{
+    "id": 1,
+    "title": "Production Development",
+    "slug": "production-development",
+    "total_curriculums": 3,
+    "total_duration": 2160,
+    "curriculum": [
+        {
+            "id": 1,
+            "title": "Introduction",
+            "total_units": 1,
+            "total_duration": 720,
+            "units": [
+                {
+                    "id": "537",
+                    "key": 1,
+                    "type": "unit",
+                    "icon": "play",
+                    "labels": "",
+                    "title": "Introduction",
+                    "link": "https://vimeo.com/575778764",
+                    "duration": "00:12:00",
+                    "extras": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Collapse & Unconsciousness",
+            "total_units": 1,
+            "total_duration": 720,
+            "units": [
+                {
+                    "id": "538",
+                    "key": 3,
+                    "type": "unit",
+                    "icon": "play",
+                    "labels": "",
+                    "title": "Collapse &#038; Unconsciousness",
+                    "link": "https://vimeo.com/574736248",
+                    "duration": "00:12:00",
+                    "extras": 0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Cardiopulmonary Resuscitation",
+            "total_units": 1,
+            "total_duration": 720,
+            "units": [
+                {
+                    "id": "540",
+                    "key": 5,
+                    "type": "unit",
+                    "icon": "play",
+                    "labels": "",
+                    "title": "Cardiopulmonary Resuscitation",
+                    "link": "https://vimeo.com/574880959",
+                    "duration": "00:20:00",
+                    "extras": 0
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Cardiopulmonary Resuscitation",
+            "total_units": 1,
+            "total_duration": 720,
+            "units": [
+                {
+                    "id": "540",
+                    "key": 5,
+                    "type": "unit",
+                    "icon": "play",
+                    "labels": "",
+                    "title": "Cardiopulmonary Resuscitation",
+                    "link": "https://vimeo.com/574880959",
+                    "duration": "00:20:00",
+                    "extras": 0
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Cardiopulmonary Resuscitation",
+            "total_units": 1,
+            "total_duration": 720,
+            "units": [
+                {
+                    "id": "540",
+                    "key": 5,
+                    "type": "unit",
+                    "icon": "play",
+                    "labels": "",
+                    "title": "Cardiopulmonary Resuscitation",
+                    "link": "https://vimeo.com/574880959",
+                    "duration": "00:20:00",
+                    "extras": 0
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Cardiopulmonary Resuscitation",
+            "total_units": 1,
+            "total_duration": 720,
+            "units": [
+                {
+                    "id": "540",
+                    "key": 5,
+                    "type": "unit",
+                    "icon": "play",
+                    "labels": "",
+                    "title": "Cardiopulmonary Resuscitation",
+                    "link": "https://vimeo.com/574880959",
+                    "duration": "00:20:00",
+                    "extras": 0
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Cardiopulmonary Resuscitation",
+            "total_units": 1,
+            "total_duration": 720,
+            "units": [
+                {
+                    "id": "540",
+                    "key": 5,
+                    "type": "unit",
+                    "icon": "play",
+                    "labels": "",
+                    "title": "Cardiopulmonary Resuscitation",
+                    "link": "https://vimeo.com/574880959",
+                    "duration": "00:20:00",
+                    "extras": 0
+                }
+            ]
+        }
+    ]
+}

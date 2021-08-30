@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Fill Your Sketchbook! The 28-Day Drawing Challenge",
+        "image": "assets/images/workshops/workshop.png",
+        "authorImage": "assets/images/Avatars/avatar.png",
+        "authorName": "Alison",
+        "authorPlatform": "One Education",
+        "time": "Aug 23rd - Sep 20th, 2021"
+    },
+    {
+        "id": 2,
+        "title": "Fill Your Sketchbook! The 28-Day Drawing Challenge",
+        "image": "assets/images/workshops/workshop.png",
+        "authorImage": "assets/images/Avatars/avatar.png",
+        "authorName": "Alison",
+        "authorPlatform": "One Education",
+        "time": "Aug 23rd - Sep 20th, 2021"
+    },
+    {
+        "id": 3,
+        "title": "Fill Your Sketchbook! The 28-Day Drawing Challenge",
+        "image": "assets/images/workshops/workshop.png",
+        "authorImage": "assets/images/Avatars/avatar.png",
+        "authorName": "Alison",
+        "authorPlatform": "One Education",
+        "time": "Aug 23rd - Sep 20th, 2021"
+    },
+    {
+        "id": 4,
+        "title": "Fill Your Sketchbook! The 28-Day Drawing Challenge",
+        "image": "assets/images/workshops/workshop.png",
+        "authorImage": "assets/images/Avatars/avatar.png",
+        "authorName": "Alison",
+        "authorPlatform": "One Education",
+        "time": "Aug 23rd - Sep 20th, 2021"
+    },
+    {
+        "id": 5,
+        "title": "Fill Your Sketchbook! The 28-Day Drawing Challenge",
+        "image": "assets/images/workshops/workshop.png",
+        "authorImage": "assets/images/Avatars/avatar.png",
+        "authorName": "Alison",
+        "authorPlatform": "One Education",
+        "time": "Aug 23rd - Sep 20th, 2021"
+    },
+    {
+        "id": 6,
+        "title": "Fill Your Sketchbook! The 28-Day Drawing Challenge",
+        "image": "assets/images/workshops/workshop.png",
+        "authorImage": "assets/images/Avatars/avatar.png",
+        "authorName": "Alison",
+        "authorPlatform": "One Education",
+        "time": "Aug 23rd - Sep 20th, 2021"
+    }
+]

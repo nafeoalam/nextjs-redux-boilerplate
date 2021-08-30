@@ -1,0 +1,17 @@
+.tips_container {
+    background: url(/assets/images/svg/get_tips_bg.svg) no-repeat 36%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.tips_content {
+  padding: 70px 0;
+  color: #fff;
+}
+
+.tips_card_wrapper {
+    min-height: 0;
+    min-width: 0;
+}
+

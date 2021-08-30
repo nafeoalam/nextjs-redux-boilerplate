@@ -1,0 +1,15 @@
+.recent_container {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background: #F4F4F4;
+}
+.recent_content {
+  padding: 50px 0;
+}
+
+.recent_card_wrapper {
+    min-height: 0;
+    min-width: 0;
+}
+

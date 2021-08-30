@@ -1,0 +1,9 @@
+.related_news_container {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+}
+.related_news_content {
+  padding: 50px 0;
+}

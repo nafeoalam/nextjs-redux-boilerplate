@@ -1,0 +1,65 @@
+.bloghtml_container {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.bloghtml_content {
+  padding: 50px 0;
+}
+.social_wrapper {
+  display: flex;
+  align-items: center;
+  padding: 20px 0;
+}
+.social_icon {
+  border: 2px solid #2d2d2d;
+  border-radius: 30px;
+  margin: 0 8px;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.social_icon:hover {
+  background-color: #ed4266;
+  color: #fff;
+  border: 2px solid #fff;
+}
+.comment_wrapper {
+  display: flex;
+}
+.comment_content {
+  padding: 0 10px;
+}
+
+.comment_icon_wrapper {
+  display: flex;
+}
+.comment_icons {
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+}
+.comment_icon_txt {
+  margin-left: 10px !important;
+}
+.comment_reply {
+  padding: 20px 120px;
+}
+.comment_show img {
+  object-fit: none;
+}
+.comment_reply img {
+  object-fit: none;
+}
+.comment_input_wrapper {
+  display: flex;
+  padding: 10px 0;
+}
+.comment_input_name {
+  padding-right: 10px !important;
+}
+.comment_btn {
+  margin: 10px 0 !important;
+  padding: 10px 20px !important;
+}

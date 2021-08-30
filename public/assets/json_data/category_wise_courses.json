@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "category": "Accounting & Finance",
+        "slug": "accounting",
+        "total_course": 94,
+        "featured_courses": [
+            {
+                "id": 1,
+                "title": "Financial Analysis",
+                "total_students": 1532,
+                "rating": 4.5,
+                "icon": "/assets/images/course-image-demo.png"
+            },
+            {
+                "id": 2,
+                "title": "Financial Analysis",
+                "total_students": 1532,
+                "rating": 4.5,
+                "icon": "/assets/images/course-image-demo.png"
+            },
+            {
+                "id": 3,
+                "title": "Financial Analysis",
+                "total_students": 1532,
+                "rating": 4.5,
+                "icon": "/assets/images/course-image-demo.png"
+            },
+            {
+                "id": 4,
+                "title": "Financial Analysis",
+                "total_students": 1532,
+                "rating": 4.5,
+                "icon": "/assets/images/course-image-demo.png"
+            },
+            {
+                "id": 5,
+                "title": "Financial Analysis",
+                "total_students": 1532,
+                "rating": 4.5,
+                "icon": "/assets/images/course-image-demo.png"
+            },
+            {
+                "id": 6,
+                "title": "Financial Analysis",
+                "total_students": 1532,
+                "rating": 4.5,
+                "icon": "/assets/images/course-image-demo.png"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Business",
+        "slug": "business",
+        "total_course": 359,
+        "featured_courses": [
+            {
+                "id": 1,
+                "title": "Estate Agent Diploma",
+                "total_students": 3097,
+                "rating": 4,
+                "icon": "/assets/images/course-image-demo.png"
+            },
+            {
+                "id": 2,
+                "title": "Estate Agent Diploma",
+                "total_students": 3097,
+                "rating": 5,
+                "icon": "/assets/images/course-image-demo.png"
+            },
+            {
+                "id": 3,
+                "title": "Estate Agent Diploma",
+                "total_students": 3097,
+                "rating": 4,
+                "icon": "/assets/images/course-image-demo.png"
+            },
+            {
+                "id": 4,
+                "title": "Estate Agent Diploma",
+                "total_students": 3097,
+                "rating": 3,
+                "icon": "/assets/images/course-image-demo.png"
+            },
+            {
+                "id": 5,
+                "title": "Estate Agent Diploma",
+                "total_students": 3097,
+                "rating": 4,
+                "icon": "/assets/images/course-image-demo.png"
+            },
+            {
+                "id": 6,
+                "title": "Estate Agent Diploma",
+                "total_students": 3097,
+                "rating": 3,
+                "icon": "/assets/images/course-image-demo.png"
+            }
+        ]
+    }
+]

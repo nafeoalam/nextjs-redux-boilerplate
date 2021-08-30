@@ -1,0 +1,13 @@
+/* Overview */
+.courseField {
+  padding: 4rem;
+}
+.logoSection {
+  display: flex;
+  justify-content: space-between;
+}
+.singleData {
+  display: flex;
+  align-items: center;
+  margin: 2rem 0;
+}

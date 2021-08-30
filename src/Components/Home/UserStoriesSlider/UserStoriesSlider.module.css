@@ -1,0 +1,26 @@
+.bgClass {
+    background-color: #f5f8fb;
+    border-radius: 15px;
+}
+
+.singleStories {
+    padding: 5rem 2rem;
+    font-size: 16px;
+    line-height: 140%;
+    color: #000000;
+}
+
+.userContent {
+    padding: 0 20px;
+}
+
+.customButton {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+
+.customButton button {
+    border-radius: 50px;
+    padding: 16px 44px;
+}

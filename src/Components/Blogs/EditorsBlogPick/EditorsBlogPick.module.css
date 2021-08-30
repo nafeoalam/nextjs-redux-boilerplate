@@ -1,0 +1,14 @@
+.editor_container {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.editor_content {
+  padding: 50px 0;
+}
+
+.editor_card_wrapper {
+    min-height: 0;
+    min-width: 0;
+}
+

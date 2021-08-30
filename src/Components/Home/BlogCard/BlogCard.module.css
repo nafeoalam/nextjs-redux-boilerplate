@@ -1,0 +1,51 @@
+.blogDate {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    font-size: 16px;
+    line-height: 140%;
+    color: #000000;
+}
+
+.date {
+    margin-left: 10px;
+}
+
+.buttonGroup {
+    display: flex;
+    margin-bottom: 5px;
+    justify-content: flex-end;
+}
+
+.cardRoot {
+    max-width: 345px;
+    padding-bottom: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+.cardMedia {
+    height: 140px;
+}
+
+.blogWrapper {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.blogInfo {
+    min-width: 34%;
+    max-width: 100%;
+    padding-right: 2rem;
+}
+
+.blogCardWrapper {
+    min-width: 65%;
+    max-width: 100%;
+}
+
+@media screen and (max-width: 960px) {
+    .blogWrapper {
+        flex-wrap: wrap;
+    }
+}

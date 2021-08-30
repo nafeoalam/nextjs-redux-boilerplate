@@ -1,0 +1,30 @@
+.comment_section {
+  padding: 50px 0;
+}
+.comment_wrapper {
+  display: flex;
+}
+.comment_content {
+  padding: 0 10px;
+}
+
+.comment_icon_wrapper {
+  display: flex;
+}
+.comment_icons {
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+}
+.comment_icon_txt {
+  margin-left: 10px !important;
+}
+.comment_reply {
+  padding: 20px 120px;
+}
+.comment_show img {
+  object-fit: none;
+}
+.comment_reply img {
+  object-fit: none;
+}

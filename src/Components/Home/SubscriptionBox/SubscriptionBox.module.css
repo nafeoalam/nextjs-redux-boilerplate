@@ -1,0 +1,21 @@
+.main {
+  background-image: url("../../../../public/assets/images/blog/subscriptionBoxBg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: white;
+  border-radius: 20px;
+}
+.dFlex {
+  display: flex;
+  margin-top: 1rem;
+}
+.wrapper {
+  padding: 5% 3%;
+}
+.list {
+  padding: 0;
+}
+.list li {
+  margin: 10px 0;
+}

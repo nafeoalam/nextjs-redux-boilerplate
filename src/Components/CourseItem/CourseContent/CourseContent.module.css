@@ -1,0 +1,63 @@
+.main {
+  margin: 5rem 0;
+}
+.contentHeading {
+  margin: 0px !important;
+  background-color: #f4f4f4 !important;
+}
+.contentHeading .MuiAccordionSummary-content {
+  /* display: flex; */
+  flex-direction: column !important;
+}
+.open {
+  background-color: #f4f4f4 !important;
+}
+.summaryContent {
+  display: flex;
+  flex-direction: column;
+  margin: 0 !important;
+  padding: 15px !important;
+}
+.single {
+  margin-bottom: 2rem !important;
+}
+.details {
+  padding: 25px !important;
+  background-color: #fff;
+}
+.mainBrochure {
+  /* text-align: center; */
+  border: 1px solid rgba(82, 85, 110, 0.1);
+  box-sizing: border-box;
+
+  /* Drop Shadow */
+  box-shadow: 0px 9px 67px rgba(0, 0, 0, 0.07),
+    0px 1.12694px 8.38944px rgba(0, 0, 0, 0.035);
+  border-radius: 12px;
+}
+.brochureWrap {
+  padding: 10% 10% 0 10%;
+}
+.brochureWrap li {
+  margin-bottom: 20px;
+}
+.customButton {
+  display: flex;
+  justify-content: center;
+}
+.customButton button {
+  border-radius: 20px;
+  padding: 10px 40px;
+}
+.buttonWrap {
+  background-color: #e5fbff;
+  padding: 5% 0;
+}
+/* Single lesson */
+
+.singleDetails {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* width: 100%; */
+}

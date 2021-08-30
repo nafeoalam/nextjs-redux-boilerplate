@@ -1,0 +1,20 @@
+export const FETCH_ONE = 'FETCH_ONE';
+export const FETCH_COURSES = 'FETCH_COURSES';
+export const FETCH_COURSE_CATEGORIES = 'FETCH_COURSE_CATEGORIES';
+
+export const AUTH_LOGIN = 'AUTH_LOGIN';
+export const AUTH_REG = 'AUTH_REG';
+export const AUTH_REG_FAILED = 'AUTH_REG_FAILED';
+export const AUTH_LOGIN_FAILED = 'AUTH_LOGIN_FAILED';
+
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const ADD_TO_NEW_CART = 'ADD_TO_NEW_CART';
+export const FETCH_CART = 'FETCH_CART';
+
+export const FETCH_MEGA_MENU='FETCH_MEGA_MENU'
+
+
+export const LOGOUT = 'LOGOUT';
+
+export const FETCH_ALL_SAVED_COURSES = 'FETCH_ALL_SAVED_COURSES';
+export const FETCH_WATCH_HISTORY = 'FETCH_WATCH_HISTORY';

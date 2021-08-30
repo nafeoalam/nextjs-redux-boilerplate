@@ -1,0 +1,205 @@
+.title {
+    color: brown;
+}
+
+/* How It Works Section */
+.single-course-howitworks-container {
+    padding-bottom: 54px;
+    background: linear-gradient(180deg, rgba(245, 248, 251, 0) 0%, rgba(214, 216, 255, 0.36) 100%);
+}
+
+.single-course-howitworks-title {
+    font-family: Poppins;
+    color: #21243D;
+    font-size: 36px;
+    font-weight: 500;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.how-it-works-course-page-card {
+    height: 220px;
+    width: 352px;
+    border: 1px solid #F1F1F1;
+    box-shadow: 0px 4px 285px rgba(0, 0, 0, 0.07), 0px 0.500862px 35.6864px rgba(0, 0, 0, 0.035) !important;
+    border-radius: 6.71196px !important;
+}
+
+.how-it-works-course-page-card-item-container {
+    height: 100%;
+}
+
+.how-it-works-course-page-card img {
+    display: block;
+    max-width: 75px;
+}
+
+.how-it-works-course-page-card-title {
+    text-align: center;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #363636;
+    margin: 8px 0;
+}
+
+.how-it-works-course-page-card-subtitle {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #4A6474;
+    margin: 0;
+}
+
+/* Recognized Certificate Section */
+
+.recognized-certificate-container {
+    padding-top: 56px;
+    padding-bottom: 56px;
+    background: #FFFFFF;
+    width: 100%;
+}
+
+.course-page-certificate-container img,
+.course-page-transcript-container img {
+    width: 100%;
+    max-height: 500px;
+}
+
+.recognized-certificate-title {
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    color: #21243D;
+    max-width: 508px;
+}
+
+.recognized-certificate-paragraph {
+    font-size: 17px;
+    line-height: 27px;
+    color: #4A6474;
+    padding: 16px 0;
+}
+
+/* Course List With Categories */
+
+.categorywise-featured-course-container {
+    padding: 1.6rem 0;
+}
+
+.course-category-title {
+    font-weight: 600;
+    font-size: 3.6rem;
+    line-height: 5.4rem;
+    align-items: center;
+    text-align: center;
+    color: #363636;
+    padding: 1.6rem 0;
+}
+
+.single-course-card {
+    background: #f3f3f3 !important;
+    /* height: 120px; */
+    width: 100%;
+    /* min-width: 320px; */
+    box-shadow: 0px 4px 285px rgba(0, 0, 0, 0.07),
+        0px 0.500862px 35.6864px rgba(0, 0, 0, 0.035) !important;
+}
+
+.single-course-content-container {
+    background: #f3f3f3;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.course-image-container {
+    position: relative;
+    height: 10rem;
+    width: 10rem;
+}
+
+.my-course-image-contaner {
+    position: relative;
+    height: 21rem;
+    width: 100%;
+}
+
+.image {
+    border-radius: 1rem !important;
+    object-fit: cover;
+}
+
+.course-card-overview-container {
+    padding-left: 1.6rem;
+    padding-top: .4rem;
+    padding-right: 0rem;
+    padding-bottom: .4rem;
+}
+
+.course-card-course-title {
+    font-weight: 600;
+    font-size: 1.6rem;
+    line-height: 2.5rem;
+    color: #363636;
+}
+
+.course-card-total-students {
+    font-size: 16px;
+    line-height: 22px;
+    color: #52556E;
+}
+
+.align-icon {
+    display: flex;
+    text-align: center;
+    /* align-items: center; */
+    justify-content: center;
+    margin-top: 0 auto;
+}
+
+.star-icon {
+    padding-left: 4px;
+    padding-top: 0px;
+    transform: translateY(-1px);
+    color: orange;
+}
+
+.view-all-link {
+    display: flex;
+    width: 100%;
+    padding: .4rem 2.4rem;
+    justify-content: flex-end;
+    text-align: center;
+    cursor: pointer;
+}
+
+.view-all-link:hover {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #ED4266;
+
+}
+
+.view-all-allign {
+    display: flex;
+    align-items: center;
+}
+
+@media (max-width:1070px) {
+    .course-card-course-title {
+        font-weight: 600;
+        font-size: 1.7rem;
+        line-height: 2.6rem;
+        color: #363636;
+    }
+}
+
+@media (max-width:1070px) {
+    .my-course-image-contaner {
+        height: 18rem ;
+    }
+}

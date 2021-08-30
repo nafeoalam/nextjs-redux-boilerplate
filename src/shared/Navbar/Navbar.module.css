@@ -1,0 +1,110 @@
+.title {
+  height: 9.4rem;
+}
+
+.appBar {
+  background-color: white !important;
+  box-shadow: none !important;
+  margin-bottom: 30px;
+  padding: 15px 0;
+}
+
+.logoWrap {
+  /* max-width: 40%; */
+  display: flex;
+  align-items: center;
+  margin-right: 1rem;
+}
+
+/* Mega Menu */
+.menuHeader {
+  padding: 1.6rem 2.4rem;
+  border-bottom: 1px solid#EEEEEE;
+}
+
+.menuHeaderTitle {
+  font-weight: bold !important;
+  font-size: 1.8rem !important;
+  line-height: 2.7rem !important;
+  color: #363636;
+}
+
+.menuHeaderLink {
+  cursor: pointer;
+  font-weight: 600 !important;
+  font-size: 1.6rem !important;
+  line-height: 2.4rem !important;
+  color: #ed4266;
+}
+
+.menuContainer {
+  background: #ffffff;
+  min-height: 600px;
+  border-radius: 20px;
+  padding: 0 !important;
+  box-shadow: 0px 19px 36px rgba(0, 0, 0, 0.1);
+}
+
+.menuHeaderLink:hover {
+  text-decoration: underline;
+}
+
+.menuItemsSection {
+  padding: 1.6rem 0;
+  border-right: 1px solid #eeeeee;
+}
+
+.menuName {
+  font-family: "OpenSans-Regular";
+  font-size: 1.6rem;
+  line-height: 2.2rem;
+  color: #747474;
+  padding-left: 0.8rem;
+}
+
+.menuNameActive {
+  font-family: "OpenSans-Regular";
+  font-size: 1.6rem;
+  font-weight: bold;
+  line-height: 2.2rem;
+  /* color: #363636; */
+  color: #ed4266;
+  padding-left: 0.8rem;
+}
+
+.menuIcon {
+  color: #747474;
+  transform: translateY(1px);
+}
+
+.menuIconActive {
+  /* color: #363636; */
+  color: #ed4266;
+  transform: translateY(1px);
+}
+
+.courseSection {
+  padding: 1.6rem 2.4rem;
+}
+
+/* UserProfile */
+
+.userProfile {
+  padding: 1rem 2.5rem;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.userInfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+.listUserMenu ul li {
+  margin: 1rem 0;
+  font-size: 1.5rem;
+  /* line-height: 1.8; */
+}

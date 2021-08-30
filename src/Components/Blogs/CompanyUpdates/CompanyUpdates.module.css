@@ -1,0 +1,15 @@
+.company_container {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background: #F4F4F4;
+}
+.company_content {
+  padding: 50px 0;
+}
+
+.company_card_wrapper {
+    min-height: 0;
+    min-width: 0;
+}
+

@@ -1,0 +1,36 @@
+.signup_container {
+    background: url(/assets/images/svg/signup_bg.svg) no-repeat 100%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.signup_content {
+  padding: 70px 0;
+  color: #fff;
+}
+
+.signup_card_wrapper {
+    min-height: 0;
+    min-width: 0;
+}
+
+.title {
+  font-style: normal;
+  font-weight: 700;
+  line-height: 66px;
+  letter-spacing: 0.5;
+  color: #292628;
+  padding: 5px 0;
+}
+.sub_title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.5px;
+  color: #292628;
+  padding: 10px 0;
+
+}
+
