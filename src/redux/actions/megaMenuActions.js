@@ -1,4 +1,4 @@
-import * as api from '../../api/routes/courses.api'
+import * as api from '../../_endpoints/routes/courses.api'
 import { FETCH_MEGA_MENU } from '../store-constants'
 
 export const getMegaMenu = (cat_count = 12, course_count = 6) => async (dispatch) => {

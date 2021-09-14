@@ -1,5 +1,5 @@
 import { AUTH_LOGIN, AUTH_REG, AUTH_LOGIN_FAILED, AUTH_REG_FAILED } from '../store-constants';
-import * as api from '../../api/routes/auth.api';
+import * as api from '../../_endpoints/routes/auth.api';
 
 
 export const login = (formData, router) => async (dispatch) => {

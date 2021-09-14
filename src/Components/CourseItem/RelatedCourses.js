@@ -5,7 +5,7 @@ import Slider from "react-slick";
 import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
 import useMediaQuery from '@material-ui/core/useMediaQuery';
-import Course from "../../../src/shared/Card/CourseCard";
+import Course from "../../shared/Card/CourseCard";
 import styles from '../../../src/styles/Dashboard.module.css'
 function SampleNextArrow(props) {
     const { className, style, onClick, xlscreen } = props;

@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import * as api from '../../../src/api/routes/courses.api';
+import * as api from '../../_endpoints/routes/courses.api';
 import { DashboardHomeBlock } from 'src/Components/Dashboard/DashboardHome/_DashboardHomeBlock'
 
 export default function Dashboard({ recommendedCourses, featuredCourses }) {

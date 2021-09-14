@@ -1,5 +1,5 @@
 import { FETCH_COURSES, FETCH_COURSE_CATEGORIES } from '../store-constants';
-import * as api from '../../api/routes/courses.api';
+import * as api from '../../_endpoints/routes/courses.api';
 
 export const getCourses = () => async (dispatch) => {
     try {

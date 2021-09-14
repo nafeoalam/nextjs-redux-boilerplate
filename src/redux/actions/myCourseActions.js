@@ -1,5 +1,5 @@
 import { FETCH_ALL_SAVED_COURSES, FETCH_WATCH_HISTORY } from '../store-constants'
-import * as api from '../../api/routes/mycourses.api'
+import * as api from '../../_endpoints/routes/mycourses.api'
 
 export const getAllSavedCourses = (userId) => async (dispatch) => {
     try {

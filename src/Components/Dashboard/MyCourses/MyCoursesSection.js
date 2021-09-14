@@ -1,6 +1,6 @@
 import { Grid, makeStyles } from '@material-ui/core'
 import React, { useState } from 'react'
-import AllSavedCourses from './AllSavedCourses/AllSavedCourses.js'
+import AllSavedCourses from './AllSavedCourses/AllSavedCourses.js.js'
 import MyLists from './MyLists/MyLists'
 import MyWorkshops from './MyWorkshops/MyWorkshops'
 import WatchHistory from './WatchHistory/WatchHistory'
@@ -12,8 +12,8 @@ const useStyles = makeStyles({
         marginBottom: '2.4rem'
     },
     btn: {
-        marginBottom:'-2px',
-        cursor:'pointer',
+        marginBottom: '-2px',
+        cursor: 'pointer',
         display: 'inline-block',
         padding: '1.6rem 4rem',
         fontWeight: '600',

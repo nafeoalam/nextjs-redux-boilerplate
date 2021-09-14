@@ -1,5 +1,5 @@
 import { ADD_TO_CART, ADD_TO_NEW_CART, FETCH_CART } from '../store-constants';
-import * as api from '../../api/routes/cart.api';
+import * as api from '../../_endpoints/routes/cart.api';
 
 
 export const addToNewCart = (data) => async (dispatch) => {
